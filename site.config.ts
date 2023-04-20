@@ -10,6 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Polaris优雅指南',
+  //https://delightful-albatross-568.notion.site/685b4f3269f74f97ad94a783cfaade20
   domain: 'https://delightful-albatross-568.notion.site/685b4f3269f74f97ad94a783cfaade20',
   author: 'Polaris',
 
